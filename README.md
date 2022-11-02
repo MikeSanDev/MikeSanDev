@@ -1,10 +1,10 @@
 
 <h3 align="center">👋 Hi there, Im Michael Sanchez</h3>
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/michael-sanchez-825882182/">LinkedIn</a> |
   <a href="https://mikesandev.github.io/">Website</a> |
-  <a href="https://twitter.com/MikeSan_Dev">Twitter</a> 
-</p>
+  <a href="mailto:mjs070594@gmail.com" >Email</a> 
+</div>
 
 <!-- About Section --> 
 <h3 align="center"> 🕺🏽 About Me: </h3>
