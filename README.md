@@ -5,6 +5,9 @@
   <a href="https://mikesandev.github.io/">Website</a> |
   <a href="https://twitter.com/MikeSan_Dev">Twitter</a> 
 
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjs070594@gmail.com) &emsp;[![LinkedIn - Michael Sanchez](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/michael-sanchez-825882182/")&emsp;
+[![Twitter - @mikesan_dev](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/davidkariuki_](https://twitter.com/MikeSan_Dev))&emsp;
+ [![Website - @davi_kariuki](https://img.shields.io/badge/Website-E4405F?style=for-the-badge&logo=website&logoColor=white )]([https://www.instagram.com/david_kariuki](https://mikesandev.github.io/))&emsp;
 </p>
 
 <!-- About Section --> 
@@ -34,8 +37,10 @@ On my days off I like to be active, whether it is lifting, running, or dancing. 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MikeSanDev&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MikeSanDev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Mike's" height="200px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSanDev&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27" alt="Mike's" height="200px"  width="500px"/>
   </div>
+  
+  <h3 align="center"> Thank you for visiting my profile. </h3>
 <!--
 **MikeSanDev/MikeSanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
