@@ -37,7 +37,7 @@ On my days off I like to be active, whether it is lifting, running, or dancing. 
   </div>
   
   <h3 align="center"> Thank you for visiting my profile! </h3>
-    [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjs070594@gmail.com) &emsp;[![LinkedIn - Michael Sanchez](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+
 <!--
 **MikeSanDev/MikeSanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
