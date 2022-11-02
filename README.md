@@ -4,10 +4,6 @@
   <a href="https://www.linkedin.com/in/michael-sanchez-825882182/">LinkedIn</a> |
   <a href="https://mikesandev.github.io/">Website</a> |
   <a href="https://twitter.com/MikeSan_Dev">Twitter</a> 
-
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjs070594@gmail.com) &emsp;[![LinkedIn - Michael Sanchez](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/michael-sanchez-825882182/")&emsp;
-[![Twitter - @mikesan_dev](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/davidkariuki_](https://twitter.com/MikeSan_Dev))&emsp;
- [![Website - @davi_kariuki](https://img.shields.io/badge/Website-E4405F?style=for-the-badge&logo=website&logoColor=white )]([https://www.instagram.com/david_kariuki](https://mikesandev.github.io/))&emsp;
 </p>
 
 <!-- About Section --> 
