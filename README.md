@@ -13,7 +13,7 @@ I am a full stack developer with a passion for creating fully functional website
 
 I decided to pursue Software Engineering where I can be more creative and consistently learn to better myself. I recently finishe a Coding Bootcamp with Coding Dojo to further my knowledge and ultimately find my first programming role.
 
-On my days off I like to be active, whether it is lifting, running, or dancing. I am a freestyle dancer, I typically train with my freestyle crew and we compete at battles around Chicago.
+On my days off I like to be active, whether it is lifting, running, or dancing. I am a freestyle dancer, I typically train with my freestyle crew and we compete in dance battles around Chicago.
 
 <h3 align="center"> 🛠  Technologies and tools: </h3>
 <div align="center" style="display: flex;">
