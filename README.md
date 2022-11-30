@@ -9,9 +9,9 @@
 <!-- About Section --> 
 <h3 align="center"> 🕺🏽 About Me: </h3>
 
-I am a full stack developer with a passion for creating fully functional websites and applications. I have a background in Dentistry as a Dental Hygienist for 3 years.
+I am a full stack developer with a passion for creating fully functional websites and applications and a background in Dentistry.
 
-I decided to pursue Software Engineering where I can be more creative and consistently learn to better myself. I recently finishe a Coding Bootcamp with Coding Dojo to further my knowledge and ultimately find my first programming role.
+I decided to pursue Software Engineering where I can express my creativity and consistently learn to better myself. After finishing a Coding Bootcamp with Coding Dojo to further my knowledge, I have continued building several full stack projects including partnering with a sneaker startup called Kinetic Footwear. Let me know if you need any chargeable sneakers!
 
 On my days off I like to be active, whether it is lifting, running, or dancing. I am a freestyle dancer, I typically train with my freestyle crew and we compete in dance battles around Chicago.
 
