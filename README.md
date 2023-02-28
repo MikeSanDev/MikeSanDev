@@ -36,7 +36,8 @@ In my free time, I enjoy staying active through various physical activities such
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeSanDev&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27" alt="Mike's" height="200px"  width="500px"/>
   </div>
   
-[![Michael's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MikeSanDev&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MikeSanDev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Michael's languages" height="192px"  width="500px"/>
+</div>
 
   <h3 align="center"> Thank you for visiting my profile! </h3>
 
