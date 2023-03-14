@@ -2,7 +2,7 @@
 <h3 align="center">👋 Hi there, Im Michael Sanchez</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/michael-sanchez-825882182/">LinkedIn</a> |
-  <a href="https://mikesandev.github.io/">Website</a> |
+  <a href="https://michaelsanchez.netlify.app/">Website</a> |
   <a href="mailto:mjs070594@gmail.com" >Email</a> 
 </div>
 
