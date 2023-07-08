@@ -17,23 +17,14 @@ In my free time, I enjoy staying active through various physical activities such
 
 <h3 align="center"> 🛠  Technologies and tools: </h3>
 <div align="center" style="display: flex;">
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> 
-<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=47A248" alt="Python logo" title="Python" height="25" />
-<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=47A248" alt="Java logo" title="Java" height="25" />
-<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
- </div> 
-
- <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,jquery,expressjs,react,vue,nextjs,angular,py,java,ruby,rails,mongodb,mysql,git,kubernetes,docker,bootstrap,tailwind,vim,figma&perline=3" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,jquery,expressjs,react,vue,nextjs,angular,py,java,ruby,rails,mongodb,mysql,git,kubernetes,docker,bootstrap,tailwind,vim,figma&perline=9" />
   </a>
 </p>
  <br>
+ </div> 
+
+
 <!-- Profile Views -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MikeSanDev&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
