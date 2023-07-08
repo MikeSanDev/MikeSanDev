@@ -30,7 +30,7 @@ In my free time, I enjoy staying active through various physical activities such
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,jquery,react,vue,nextjs,angular,py,java,ruby,rails,mongodb,mysql,git,kubernetes,docker,bootstrap,tailwind,vim,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,jquery,expressjs,react,vue,nextjs,angular,py,java,ruby,rails,mongodb,mysql,git,kubernetes,docker,bootstrap,tailwind,vim,figma&perline=3" />
   </a>
 </p>
  <br>
