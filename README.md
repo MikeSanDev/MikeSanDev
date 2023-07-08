@@ -18,7 +18,7 @@ In my free time, I enjoy staying active through various physical activities such
 <h3 align="center"> 🛠  Technologies and tools: </h3>
 <div align="center" style="display: flex;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,jquery,expressjs,react,vue,nextjs,angular,py,java,ruby,rails,mongodb,mysql,git,kubernetes,docker,bootstrap,tailwind,vim,figma&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,jquery,expressjs,react,vue,nextjs,angular,py,java,ruby,rails,mongodb,mysql,git,kubernetes,docker,bootstrap,tailwind,vim,figma&perline=12" />
   </a>
 </p>
  <br>
