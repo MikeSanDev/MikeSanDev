@@ -11,7 +11,7 @@
 
 I am a full stack developer with a passion for creating fully functional websites and applications and a background in Dentistry.
 
-I pursued a career in software development to tap into my creativity and continuously grow my skills. To further my knowledge, I completed a coding bootcamp at Coding Dojo and have since worked on a number of full-stack projects. I found my first role as a Developer and I am thrilled to be on this journey. I am continuing to improve my skills by attempting to code daily. 
+I pursued a career in software development to tap into my creativity and continuously grow my skills. To further my knowledge, I completed a coding bootcamp at Coding Dojo and have since worked on a number of full-stack projects. In October of 2023, I accepted my first role as a Developer and I am thrilled to be on this journey. I am continuing to improve my skills by attempting to code daily. 
 
 In my free time, I enjoy staying active through various physical activities such as lifting weights, running, and dancing. I am a Hip Hop freestyle dancer and regularly train with my crew, competing in dance battles across Chicago.
 
