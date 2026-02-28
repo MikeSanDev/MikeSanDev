@@ -30,7 +30,7 @@ In my free time, I enjoy staying active through various physical activities such
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MikeSanDev&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MikeSanDev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Michael's languages" height="192px"  width="500px"/>
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MikeSanDev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Michael's languages" height="192px"  width="500px"/> -->
   </div>
 </div>
 
